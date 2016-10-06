@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 2003, SVG Export, v1.0 生成 scpv2.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in"
+		height="11.6929in" viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st15">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st3 {fill:none;stroke:#333333;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st4 {stroke:#0000ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.08}
+		.st5 {fill:none;stroke:#800080;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.08}
+		.st6 {stroke:#333399;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.08}
+		.st7 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.08}
+		.st8 {stroke:#0000ff;stroke-dasharray:4.08,8.16;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.08}
+		.st9 {fill:none;stroke:#008000;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.08}
+		.st10 {fill:none;stroke:#ff6600;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.08}
+		.st11 {fill:none;stroke:#333333;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.08}
+		.st12 {fill:none;stroke:#008000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st13 {fill:none;stroke:#ff6600;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st14 {stroke:#333399;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st15 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape19-1" v:mID="19" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-539.454,-19.2022) rotate(-71.5946) scale(-1,1)">
+			<title>Line-curve connector.9</title>
+			<v:userDefs>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M0 841.89 L0.51 841.45 L1.08 841.04 L1.71 840.67 L2.39 840.32 L3.14 840 L3.95 839.72 L4.81 839.46 L5.74 839.23
+						 L6.72 839.04 L7.76 838.87 L8.87 838.74 L10.03 838.63 L11.25 838.56 L12.53 838.51 L13.87 838.5 L15.26 838.51
+						 L16.72 838.56 L18.24 838.63 L19.81 838.74 L21.45 838.87 L23.14 839.04 L24.9 839.23 L26.71 839.46 L28.58
+						 839.72 L30.52 840 L32.51 840.32 L34.56 840.67 L36.67 841.04 L38.83 841.45 L41.06 841.89" class="st1"/>
+		</g>
+		<g id="shape21-4" v:mID="21" v:groupContext="shape" transform="translate(989.595,-112.449) rotate(64.851)">
+			<title>工作表.21</title>
+			<path d="M0 841.89 L54.65 841.89" class="st2"/>
+		</g>
+		<g id="shape11-7" v:mID="11" v:groupContext="shape" transform="translate(176.787,-542.433)">
+			<title>Ellipse.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 821.2 A16.0157 20.6929 0 0 1 32.03 821.2 A16.0157 20.6929 0 0 1 -0 821.2 Z" class="st3"/>
+		</g>
+		<g id="shape12-9" v:mID="12" v:groupContext="shape" transform="translate(174.52,-540.52)">
+			<title>Ellipse.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 819.21 A18.1417 22.6772 0 1 1 36.28 819.21 A18.1417 22.6772 0 0 1 0 819.21 Z" class="st3"/>
+		</g>
+		<g id="group13-11" transform="translate(170.079,-518.054)" v:mID="13" v:groupContext="group">
+			<title>工作表.13</title>
+			<g id="shape9-12" v:mID="9" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-727.063,542.703) rotate(-74.7132) scale(-1,1)">
+				<title>直线-曲线连接线.9</title>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<path d="M0 841.89 L0.74 841.29 L1.54 840.74 L2.39 840.23 L3.29 839.77 L4.24 839.34 L5.25 838.96 L6.31 838.62 L7.42
+							 838.32 L8.58 838.07 L9.8 837.85 L11.06 837.68 L12.38 837.56 L13.76 837.47 L15.18 837.43 L16.66 837.43
+							 L18.19 837.47 L19.77 837.56 L21.41 837.68 L23.09 837.85 L24.83 838.07 L26.62 838.32 L28.47 838.62 L30.36
+							 838.96 L32.31 839.34 L34.31 839.77 L36.37 840.23 L38.47 840.74 L40.63 841.29 L42.84 841.89"
+						class="st4"/>
+			</g>
+			<g id="shape1-15" v:mID="1" v:groupContext="shape" transform="translate(510.544,76.8179) rotate(30)">
+				<title>Triangle</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<path d="M16.47 841.89 L7.64 826.6 L-1.18 841.89 L16.47 841.89 Z" class="st5"/>
+			</g>
+			<g id="shape7-17" v:mID="7" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-384.654,1506.06) rotate(-147.343)">
+				<title>Line-curve connector</title>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<path d="M0 841.89 L2.05 842.59 L4.04 843.25 L5.99 843.86 L7.89 844.41 L9.74 844.92 L11.55 845.39 L13.31 845.8 L15.01
+							 846.16 L16.67 846.48 L18.28 846.74 L19.85 846.96 L21.36 847.13 L22.83 847.25 L24.25 847.33 L25.62 847.35
+							 L26.94 847.33 L28.21 847.25 L29.44 847.13 L30.61 846.96 L31.74 846.74 L32.82 846.48 L33.85 846.16 L34.84
+							 845.8 L35.77 845.39 L36.66 844.92 L37.5 844.41 L38.29 843.86 L39.03 843.25 L39.73 842.59 L40.37 841.89"
+						class="st6"/>
+			</g>
+			<g id="shape8-20" v:mID="8" v:groupContext="shape" transform="translate(815.381,404.665) rotate(64.851)">
+				<title>工作表.8</title>
+				<path d="M0 841.89 L57.54 841.89" class="st7"/>
+			</g>
+			<g id="shape10-23" v:mID="10" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-620.79,1225.05) rotate(-120.6)">
+				<title>直线-曲线连接线.10</title>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<path d="M0 841.89 L1 843.7 L1.99 845.43 L2.96 847.1 L3.92 848.7 L4.88 850.23 L5.82 851.69 L6.75 853.08 L7.66 854.4
+							 L8.57 855.65 L9.46 856.83 L10.35 857.94 L11.22 858.98 L12.08 859.96 L12.93 860.86 L13.76 861.69 L14.59
+							 862.46 L15.4 863.15 L16.2 863.78 L16.99 864.33 L17.77 864.82 L18.54 865.24 L19.29 865.59 L20.04 865.86
+							 L20.77 866.07 L21.49 866.21 L22.2 866.28 L22.9 866.28 L23.58 866.21 L24.26 866.07 L24.92 865.86 L25.57
+							 865.59 L26.21 865.24 L26.84 864.82 L27.46 864.33 L28.06 863.78 L28.66 863.15 L29.24 862.46 L29.81 861.69
+							 L30.37 860.86 L30.92 859.96 L31.45 858.98 L31.98 857.94 L32.49 856.83 L32.99 855.65 L33.48 854.4 L33.96
+							 853.08 L34.42 851.69 L34.88 850.23 L35.32 848.7 L35.75 847.1 L36.17 845.43 L36.58 843.7 L36.98 841.89"
+						class="st8"/>
+			</g>
+			<g id="shape4-26" v:mID="4" v:groupContext="shape" transform="translate(-184.1,37.6352) rotate(-15)">
+				<title>Diamond</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<path d="M0 826.1 L34.57 810.3 L69.15 826.1 L34.57 841.89 L0 826.1 Z" class="st9"/>
+			</g>
+			<g id="shape5-28" v:mID="5" v:groupContext="shape" transform="translate(-284.148,-8.85797) rotate(-23.6294)">
+				<title>Partial layer 1</title>
+				<v:userDefs>
+					<v:ud v:nameU="ControlX" v:val="VT0(0.078740157480315):24"/>
+					<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<path d="M5.67 841.89 L40.22 841.89 A40.1951 40.1951 -180 0 0 -34.4 821.04 L-4.85 838.95 A5.66538 5.66538 0 0 1 5.67
+							 841.89 Z" class="st10"/>
+			</g>
+			<g id="shape3-30" v:mID="3" v:groupContext="shape" transform="translate(0,-18.6257)">
+				<title>Ellipse</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+				</v:userDefs>
+				<path d="M0 815.43 A22.3923 26.4636 0 1 1 44.78 815.43 A22.3923 26.4636 0 0 1 0 815.43 Z" class="st11"/>
+			</g>
+		</g>
+		<g id="shape14-32" v:mID="14" v:groupContext="shape" transform="translate(-6.40813,-487.001) rotate(-15)">
+			<title>Diamond</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 830.55 L25.51 819.21 L51.02 830.55 L25.51 841.89 L0 830.55 Z" class="st12"/>
+		</g>
+		<g id="shape15-34" v:mID="15" v:groupContext="shape" transform="translate(-2.5257,-490.205) rotate(-15)">
+			<title>Diamond.15</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<path d="M0 832.68 L20.98 823.46 L41.95 832.68 L20.98 841.89 L0 832.68 Z" class="st12"/>
+		</g>
+		<g id="shape16-36" v:mID="16" v:groupContext="shape" transform="translate(-114.433,-529.598) rotate(-23.6294)">
+			<title>Partial layer 1</title>
+			<v:userDefs>
+				<v:ud v:nameU="ControlX" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M5.67 841.89 L30.49 841.89 A30.448 30.448 -180 0 0 -26.54 826.88 L-4.94 839.1 A5.66151 5.66151 0 0 1 5.67 841.89
+						 Z" class="st13"/>
+		</g>
+		<g id="shape17-38" v:mID="17" v:groupContext="shape" transform="translate(-126.528,-524.004) rotate(-24.5309)">
+			<title>Partial layer 1.17</title>
+			<v:userDefs>
+				<v:ud v:nameU="ControlX" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M5.67 841.89 L33.01 841.89 A33.0482 33.0482 -180 0 0 -29.26 826.61 L-5.03 839.27 A5.67577 5.67577 0 0 1 5.67
+						 841.89 Z" class="st13"/>
+		</g>
+		<g id="shape18-40" v:mID="18" v:groupContext="shape" v:layerMember="0"
+				transform="translate(-254.808,963.132) rotate(-144.162)">
+			<title>Line-curve connector</title>
+			<v:userDefs>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M0 841.89 L2 842.31 L3.94 842.69 L5.83 843.04 L7.66 843.34 L9.44 843.6 L11.17 843.82 L12.84 844 L14.46 844.14
+						 L16.03 844.24 L17.54 844.3 L19 844.32 L20.4 844.3 L21.75 844.24 L23.05 844.14 L24.29 844 L25.48 843.82 L26.61
+						 843.6 L27.69 843.34 L28.72 843.04 L29.69 842.69 L30.61 842.31 L31.47 841.89" class="st14"/>
+		</g>
+		<g id="shape22-43" v:mID="22" v:groupContext="shape" transform="translate(-371.936,-349.165) rotate(-45)">
+			<title>Partial layer 1.22</title>
+			<v:userDefs>
+				<v:ud v:nameU="ControlX" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M5.67 841.89 L12.5 841.89 A12.4921 12.4921 -180 0 0 -7.33 831.77 L-3.33 837.3 A5.6671 5.6671 0 0 1 5.67 841.89
+						 Z" class="st13"/>
+		</g>
+		<g id="shape23-45" v:mID="23" v:groupContext="shape" transform="translate(-264.147,-438.926) rotate(-35.3943)">
+			<title>Partial layer 1.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="ControlX" v:val="VT0(0.078740157480315):24"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M5.67 841.89 L15.49 841.89 A15.4858 15.4858 -180 0 0 -10.35 830.37 L-3.79 837.67 A5.66753 5.66753 0 0 1 5.67
+						 841.89 Z" class="st13"/>
+		</g>
+	</g>
+</svg>
